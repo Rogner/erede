@@ -1,5 +1,5 @@
 {
-    "name": "bagisto/erede",
+    "name": "rogner/erede",
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +15,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Bagisto\\Erede\\Providers\\EredeServiceProvider"
+                "Rogner\\Erede\\Providers\\EredeServiceProvider"
             ]
         }
     },
