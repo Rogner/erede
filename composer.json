@@ -1,0 +1,23 @@
+{
+    "name": "bagisto/erede",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rogner Ahnert",
+            "email": "rograhnert@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Bagisto\\Erede\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bagisto\\Erede\\Providers\\EredeServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev"
+}
