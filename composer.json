@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Bagisto\\Erede\\": "src/"
+            "Rogner\\Erede\\": "src/"
         }
     },
     "extra": {

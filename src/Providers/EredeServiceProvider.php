@@ -1,12 +1,12 @@
 <?php
 
-namespace Bagisto\Erede\Providers;
+namespace Rogner\Erede\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
 /**
  * Class EredeServiceProvider
- * @package Bagisto\Erede\Providers
+ * @package Rogner\Erede\Providers
  */
 class EredeServiceProvider extends ServiceProvider
 {
